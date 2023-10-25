@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="enterColor">Enter color: red, green, blue</string>
+    <string name="launch_second_activity">Launch second activity</string>
+    <string name="this_is_the_second_activity">This is the Second Activity</string>
+    <string name="return_to_mainactivity">Return to MainActivity</string>
+</resources>
